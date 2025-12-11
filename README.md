@@ -14,7 +14,7 @@
 
 <div align="center">
   <!-- top-langs proviene de github-readme-stats. Cambia `langs_count`, `theme` o `layout` en la URL para modificar la tarjeta -->
-  !![Samael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andiveli&show_icons=true&theme=tokyonight)
+  [Samael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andiveli&show_icons=true&theme=tokyonight)
 </div>
 
 ###
