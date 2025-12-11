@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -13,7 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andiveli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2&custom_title=Recently%20used%20languages" height="150" alt="languages graph"  />
+  <!-- top-langs proviene de github-readme-stats. Cambia `langs_count`, `theme` o `layout` en la URL para modificar la tarjeta -->
+  ![Recently used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Andiveli&layout=compact&langs_count=5&theme=shades-of-purple&hide_border=false&custom_title=Recently%20used%20languages)
 </div>
 
 ###
@@ -41,11 +42,5 @@
 ###
 
 <p align="left">I’m currently studying Mechatronics Engineering. I’m passionate about programming, which is why I dedicate time to it both in my free time and for university projects.<br><br>As a mechatronics engineer, I aim to specialize in embedded systems programming and data protection within robotic security — the field that ensures robots operate safely, reliably, and are protected against cyber threats and unauthorized access.</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
