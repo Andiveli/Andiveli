@@ -4,8 +4,19 @@ I'm a mechatronics engineering student in Ecuador. I build open-source software 
 
 ## Featured work
 
-- **[wptui](https://github.com/Andiveli/wptui):** I created and maintain a keyboard-driven WhatsApp client for the terminal, built with Rust and Go. It has 200+ GitHub stars.
-- **[CAD portfolio](https://github.com/Andiveli/Portafolio-CAD):** I model assemblies and create technical drawings in Autodesk Inventor and SOLIDWORKS. Start with the [staircase project](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase): I took the site measurements, performed the structural calculations, and prepared the Inventor model and numbered assembly drawing.
+### wptui · WhatsApp in the terminal
+
+I created and maintain a keyboard-driven WhatsApp client you can use without leaving the terminal.
+
+**Rust · Go** · [Watch the demo](https://github.com/user-attachments/assets/f08d20f9-6051-45e2-a1d2-b0a512242e9c) · [View repository](https://github.com/Andiveli/wptui)
+
+### CAD portfolio · Staircase assembly
+
+I took the site measurements, performed the structural calculations, and turned them into an Inventor assembly and a numbered drawing with a 24-item parts list.
+
+[![Staircase assembly drawing with numbered callouts and a parts list](https://raw.githubusercontent.com/Andiveli/Portafolio-CAD/main/projects/staircase/images/assembly-drawing.png)](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase)
+
+**Autodesk Inventor · SOLIDWORKS** · [View staircase project](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase) · [View full CAD portfolio](https://github.com/Andiveli/Portafolio-CAD)
 
 ## Hospital management project
 
