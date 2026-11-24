@@ -4,21 +4,12 @@ I'm a mechatronics engineering student in Ecuador. I build open-source software 
 
 ## Featured work
 
-### wptui · WhatsApp in the terminal
-
-I created and maintain a keyboard-driven WhatsApp client you can use without leaving the terminal.
-
-![wptui terminal interface with a fictional chat and a link preview](assets/wptui-preview.png)
-
-**Rust · Go** · [Watch the demo](https://github.com/user-attachments/assets/f08d20f9-6051-45e2-a1d2-b0a512242e9c) · [View repository](https://github.com/Andiveli/wptui)
-
-### CAD portfolio · Staircase assembly
-
-I took the site measurements, performed the structural calculations, and turned them into an Inventor assembly and a numbered drawing with a 24-item parts list.
-
-[![Staircase assembly drawing with numbered callouts and a parts list](https://raw.githubusercontent.com/Andiveli/Portafolio-CAD/main/projects/staircase/images/assembly-drawing.png)](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase)
-
-**Autodesk Inventor · SOLIDWORKS** · [View staircase project](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase) · [View full CAD portfolio](https://github.com/Andiveli/Portafolio-CAD)
+| Dev | CAD |
+| :--- | :--- |
+| **[wptui](https://github.com/Andiveli/wptui)** · Rust & Go | **[CAD portfolio](https://github.com/Andiveli/Portafolio-CAD)** · Inventor & SOLIDWORKS |
+| <a href="https://github.com/Andiveli/wptui"><img src="assets/wptui-preview.png" alt="wptui terminal interface with a fictional chat" width="360"></a> | <a href="https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase"><img src="https://raw.githubusercontent.com/Andiveli/Portafolio-CAD/main/projects/staircase/images/assembly-drawing.png" alt="Numbered staircase assembly drawing and parts list" width="360"></a> |
+| I created and maintain a keyboard-driven WhatsApp client for the terminal. | I took the site measurements, performed the structural calculations, and created the staircase assembly and numbered drawing. |
+| [Watch the demo](https://github.com/user-attachments/assets/f08d20f9-6051-45e2-a1d2-b0a512242e9c) | [View the staircase project](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase) |
 
 ## Hospital management project
 
