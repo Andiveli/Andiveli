@@ -8,6 +8,8 @@ I'm a mechatronics engineering student in Ecuador. I build open-source software 
 
 I created and maintain a keyboard-driven WhatsApp client you can use without leaving the terminal.
 
+![wptui terminal interface with a fictional chat and a link preview](assets/wptui-preview.png)
+
 **Rust · Go** · [Watch the demo](https://github.com/user-attachments/assets/f08d20f9-6051-45e2-a1d2-b0a512242e9c) · [View repository](https://github.com/Andiveli/wptui)
 
 ### CAD portfolio · Staircase assembly
