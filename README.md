@@ -10,25 +10,31 @@ I'm a mechatronics engineering student in Ecuador. I build open-source software 
 | <a href="https://github.com/Andiveli/wptui"><img src="assets/wptui-preview.png" alt="wptui terminal interface with a fictional chat" width="360"></a> | <a href="https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase"><img src="https://raw.githubusercontent.com/Andiveli/Portafolio-CAD/main/projects/staircase/images/assembly-drawing.png" alt="Numbered staircase assembly drawing and parts list" width="360"></a> |
 | I created and maintain a keyboard-driven WhatsApp client for the terminal. | I took the site measurements, performed the structural calculations, and created the staircase assembly and numbered drawing. |
 | [Watch the demo](https://github.com/user-attachments/assets/f08d20f9-6051-45e2-a1d2-b0a512242e9c) | [View the staircase project](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase) |
+| | **[Articulated arm](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/articulated-arm)** · Autodesk Inventor |
+| | <a href="https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/articulated-arm"><img src="https://raw.githubusercontent.com/Andiveli/Portafolio-CAD/main/projects/articulated-arm/images/isometric.png" alt="Isometric view of the articulated arm and gripper" width="360"></a> |
 
 ## Hospital management project
 
 This started as a Java course project. I revisited the same scheduling and patient-management workflows as an Android app and later as a web application with a separate API and frontend.
 
-| Version | What it covers |
-| --- | --- |
-| [Proyecto-Hospital](https://github.com/Andiveli/Proyecto-Hospital) | The original Java console app: patient and doctor records, appointments, treatments, and billing, with text-file storage. |
-| [App-hospital](https://github.com/Andiveli/App-hospital) | A Java Android app with screens for patients, doctors, appointments, treatments, and reports. The UI is separated from file-backed storage through ViewModels and repositories. |
-| [HospitalCapas](https://github.com/Andiveli/HospitalCapas) | A Spring Boot experiment focused on a layered backend. The code separates controllers, services, and repositories and explores account registration and login with Spring Security, JPA, and MariaDB. The authentication flow is incomplete. |
-| [HospitalNestjs](https://github.com/Andiveli/HospitalNestjs) + [HospitalFront](https://github.com/Andiveli/HospitalFront) | A TypeScript web version with a NestJS API, TypeORM, and an Angular frontend. It has separate patient, doctor, and admin areas and modules for appointment scheduling, clinical records, prescriptions, referrals, and video consultations with WebRTC and Socket.IO signaling. |
+| Web app · Angular & NestJS | Android app · Java |
+| :--- | :--- |
+| Patient, doctor, and admin workspaces for appointments, clinical records, prescriptions, referrals, and video consultations. | Mobile screens for patients, doctors, appointments, treatments, and reports. ViewModels and repositories separate the UI from file-based storage. |
+| [Angular frontend](https://github.com/Andiveli/HospitalFront) · [NestJS API](https://github.com/Andiveli/HospitalNestjs) | [Android source](https://github.com/Andiveli/App-hospital) |
 
-If you only look at one version, start with the **NestJS API and Angular frontend**.
+| Console app · Java | Layered backend · Spring Boot |
+| :--- | :--- |
+| The original course project: patient and doctor records, appointments, treatments, and billing with text-file storage. | An experiment separating controllers, services, and repositories. It explores registration and login with Spring Security, JPA, and MariaDB; the authentication flow is incomplete. |
+| [Console source](https://github.com/Andiveli/Proyecto-Hospital) | [Backend source](https://github.com/Andiveli/HospitalCapas) |
 
 ## More projects
 
-- **[mcp-cad](https://github.com/Andiveli/mcp-cad):** A C#/.NET MCP server for automating CAD operations in Autodesk Inventor, including sketches, extrusions, and assembly operations.
-- **Salon management:** An [Express backend](https://github.com/Andiveli/backend-peluqueria) with user, service, and appointment routes, and a [React frontend](https://github.com/Andiveli/frontend-peluqueria) with account and service-management screens.
-- **[samael-purple-night](https://github.com/Andiveli/samael-purple-night):** A Neovim colorscheme in Lua with a custom palette and plugin-specific highlights.
+| Salon management · React | samael-purple-night · Neovim |
+| :--- | :--- |
+| Frontend for account and service management. The companion Express API handles users, services, and appointments. | A Lua colorscheme with a custom purple palette and plugin-specific highlights. |
+| [React frontend](https://github.com/Andiveli/frontend-peluqueria) · [Express API](https://github.com/Andiveli/backend-peluqueria) | [Colorscheme source](https://github.com/Andiveli/samael-purple-night) |
+
+**[mcp-cad](https://github.com/Andiveli/mcp-cad)** is a C#/.NET MCP server that automates Autodesk Inventor operations, including sketches, extrusions, and assemblies.
 
 I'm interested in embedded systems and security for robotics.
 
