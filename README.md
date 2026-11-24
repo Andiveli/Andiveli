@@ -6,24 +6,24 @@ I'm a mechatronics engineering student in Ecuador. I build open-source software 
 
 | Dev | CAD |
 | :--- | :--- |
-| **[wptui](https://github.com/Andiveli/wptui)** · Rust & Go<br><a href="https://github.com/Andiveli/wptui"><img src="assets/wptui-preview.png" alt="wptui terminal interface with a fictional chat" width="360"></a><br>Keyboard-driven WhatsApp client for the terminal. [Demo in the project README](https://github.com/Andiveli/wptui#readme) | **[Staircase assembly](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase)** · Inventor<br><a href="https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase"><img src="https://raw.githubusercontent.com/Andiveli/Portafolio-CAD/main/projects/staircase/images/assembly-drawing.png" alt="Numbered staircase assembly drawing and parts list" width="360"></a><br>Site measurements, structural calculations, and technical drawings. |
-| **[Hospital web app](https://github.com/Andiveli/HospitalFront)** · Angular & NestJS<br><a href="https://github.com/Andiveli/HospitalFront"><img src="assets/hospital-web-preview.png" alt="Reconstructed hospital appointment screen with fictional data" width="360"></a><br>Appointment scheduling and clinical workflows for patients, doctors, and admins. | **[Articulated arm](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/articulated-arm)** · Inventor<br><a href="https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/articulated-arm"><img src="https://raw.githubusercontent.com/Andiveli/Portafolio-CAD/main/projects/articulated-arm/images/isometric.png" alt="Isometric view of the articulated arm and gripper" width="360"></a><br>Mechanical assembly with a geared linkage and gripper. |
+| **[wptui](https://github.com/Andiveli/wptui)** · **200+ GitHub stars** · Rust & Go<br><a href="https://github.com/Andiveli/wptui"><img src="assets/wptui-preview.png" alt="wptui terminal interface with a fictional chat" width="360"></a><br>Keyboard-driven WhatsApp client for the terminal. [Demo in the project README](https://github.com/Andiveli/wptui#readme) | **[Staircase assembly](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase)** · Inventor<br><a href="https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/staircase"><img src="https://raw.githubusercontent.com/Andiveli/Portafolio-CAD/main/projects/staircase/images/assembly-drawing.png" alt="Numbered staircase assembly drawing and parts list" width="360"></a><br>Site measurements, structural calculations, and technical drawings. |
+| **[Hospital web app](https://github.com/Andiveli/HospitalFront)** · Angular & NestJS<br><a href="https://github.com/Andiveli/HospitalFront"><img src="assets/hospital-web-preview.png" alt="Reconstructed hospital appointment screen with fictional data" width="360"></a><br>*Static reconstruction · fictional data*<br>Appointment scheduling and clinical workflows for patients, doctors, and admins. | **[Articulated arm](https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/articulated-arm)** · Inventor<br><a href="https://github.com/Andiveli/Portafolio-CAD/tree/main/projects/articulated-arm"><img src="https://raw.githubusercontent.com/Andiveli/Portafolio-CAD/main/projects/articulated-arm/images/isometric.png" alt="Isometric view of the articulated arm and gripper" width="360"></a><br>Mechanical assembly with a geared linkage and gripper. |
 
 [View the full CAD portfolio](https://github.com/Andiveli/Portafolio-CAD)
 
 ## Hospital management project
 
-This started as a Java course project. I revisited the same scheduling and patient-management workflows as an Android app and later as a web application with a separate API and frontend.
+I tackled the same problem—managing patients and appointments—across three platforms. I started with a **Java console app** for a course, brought those workflows to **Android**, and revisited them again as a **web app** with an Angular frontend and a separate NestJS API.
 
 | Web app · Angular & NestJS | Android app · Java |
 | :--- | :--- |
-| ![Reconstructed appointment workflow](assets/hospital-web-preview.png) | ![Reconstructed Android home screen](assets/hospital-android-preview.png) |
+| ![Reconstructed appointment workflow](assets/hospital-web-preview.png)<br>*Static reconstruction · fictional data* | ![Reconstructed Android home screen](assets/hospital-android-preview.png)<br>*Static reconstruction from the Android layout* |
 | Patient, doctor, and admin workspaces for appointments, clinical records, prescriptions, referrals, and video consultations. | Mobile screens for patients, doctors, appointments, treatments, and reports. ViewModels and repositories separate the UI from file-based storage. |
 | [Angular frontend](https://github.com/Andiveli/HospitalFront) · [NestJS API](https://github.com/Andiveli/HospitalNestjs) | [Android source](https://github.com/Andiveli/App-hospital) |
 
 | Console app · Java | Layered backend · Spring Boot |
 | :--- | :--- |
-| ![Illustrative Java console menu](assets/hospital-console-preview.png) | ![Spring Boot architecture diagram](assets/hospital-backend-preview.png) |
+| ![Illustrative Java console menu](assets/hospital-console-preview.png)<br>*Illustrative reconstruction of the console menu* | ![Spring Boot architecture diagram](assets/hospital-backend-preview.png)<br>*Architecture diagram · not a screenshot* |
 | The original course project: patient and doctor records, appointments, treatments, and billing with text-file storage. | An experiment separating controllers, services, and repositories. It explores registration and login with Spring Security, JPA, and MariaDB; the authentication flow is incomplete. |
 | [Console source](https://github.com/Andiveli/Proyecto-Hospital) | [Backend source](https://github.com/Andiveli/HospitalCapas) |
 
